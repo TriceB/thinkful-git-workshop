@@ -56,6 +56,6 @@ ___
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
 Elif Demir<br/>
-[Mon'Trice Brightmon] (https://github.com/TriceB)<br/>
+[Mon'Trice Brightmon](https://github.com/TriceB)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
